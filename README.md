@@ -36,5 +36,5 @@ The target variable is **species**, which includes three classes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Task-1-Iris-EDA.git# Task-1-Iris-EDA
+git clone https://github.com/saadwarraich888/Task-1-Iris-EDA.git
 Exploratory Data Analysis of Iris Dataset
